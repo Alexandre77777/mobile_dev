@@ -12,9 +12,10 @@
 |    | | [Математический аппарат](https://cloud.mail.ru/public/mdTG/kWqkjGNZB)      | 
 |    | | [Заготовка](https://cloud.mail.ru/public/mdTG/kWqkjGNZB)      | 
 |    | | [Антология виджетов Flutter с примерами кода](https://colab.research.google.com/drive/134eldLb_C56jC_sw1-YN6JGLqiUSoFIb?usp=sharing)      | 
-| 2   | 06.03.2025 - | [**Практическая работа №2. Разработка мобильного приложения "Weather App"**](https://cloud.mail.ru/public/7Tn7/hwZGYyJkz)      | 
+| 2   | 06.03.2025 - 27.03.2025| [**Практическая работа №2. Разработка мобильного приложения "Weather App"**](https://cloud.mail.ru/public/7Tn7/hwZGYyJkz)      | 
 |    | | [Подробный разбор основных компонентов проекта](https://u.to/tPYlIg)      | 
 |    | | [Заготовка](https://cloud.mail.ru/public/BV2D/kHu9HeY3T)      | 
+| 3   | 27.03.2025 - | [**Практическая работа №3. Развертывание моделей глубокого обучения в среде Flutter**](https://colab.research.google.com/drive/1fCgJxGSVy7iu4ivFA7u4WKuNpJ71wDCK?usp=sharing)      | 
 
 
 

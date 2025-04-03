@@ -17,6 +17,9 @@
 |    | | [Заготовка](https://cloud.mail.ru/public/BV2D/kHu9HeY3T)      | 
 | 3   | 27.03.2025 - | [**Практическая работа №3. Развертывание моделей глубокого обучения в среде Flutter**](https://u.to/KWQ3Ig)      | 
 |    | | [Заготовка](https://colab.research.google.com/drive/1fCgJxGSVy7iu4ivFA7u4WKuNpJ71wDCK?usp=sharing)      | 
+|    | | [Дополнение](https://u.to/1WU3Ig)      | 
+
+
 
 
 

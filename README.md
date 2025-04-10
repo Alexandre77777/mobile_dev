@@ -15,10 +15,11 @@
 | 2   | 06.03.2025 - 27.03.2025| [**Практическая работа №2. Разработка мобильного приложения "Weather App"**](https://cloud.mail.ru/public/7Tn7/hwZGYyJkz)      | 
 |    | | [Подробный разбор основных компонентов проекта](https://u.to/tPYlIg)      | 
 |    | | [Заготовка](https://cloud.mail.ru/public/BV2D/kHu9HeY3T)      | 
-| 3   | 27.03.2025 - | [**Практическая работа №3. Развертывание моделей глубокого обучения в среде Flutter**](https://u.to/KWQ3Ig)      | 
+| 3   | 27.03.2025 - 10.04.2025| [**Практическая работа №3. Развертывание моделей глубокого обучения в среде Flutter**](https://u.to/KWQ3Ig)      | 
 |    | | [Заготовка](https://colab.research.google.com/drive/1fCgJxGSVy7iu4ivFA7u4WKuNpJ71wDCK?usp=sharing)      | 
 |    | | [Дополнение](https://u.to/1WU3Ig)      | 
-
+| 4   | 10.04.2025 - | [**Практическая работа №4. Разработка мобильных приложений, используя разные архитектурные паттерны**](https://cloud.mail.ru/public/KKmQ/1uifRrbCC?clckid=5359e528)      | 
+|    | | [Архитектурные паттерны Flutter](https://cloud.mail.ru/public/kEfr/g5hHjQr8z)      | 
 
 
 

@@ -18,8 +18,10 @@
 | 3   | 27.03.2025 - 10.04.2025| [**Практическая работа №3. Развертывание моделей глубокого обучения в среде Flutter**](https://u.to/KWQ3Ig)      | 
 |    | | [Заготовка](https://colab.research.google.com/drive/1fCgJxGSVy7iu4ivFA7u4WKuNpJ71wDCK?usp=sharing)      | 
 |    | | [Дополнение](https://u.to/1WU3Ig)      | 
-| 4   | 10.04.2025 - | [**Практическая работа №4. Разработка мобильных приложений, используя разные архитектурные паттерны**](https://cloud.mail.ru/public/KKmQ/1uifRrbCC?clckid=5359e528)      | 
+| 4   | 10.04.2025 - 17.04.2025| [**Практическая работа №4. Разработка мобильных приложений, используя разные архитектурные паттерны**](https://cloud.mail.ru/public/KKmQ/1uifRrbCC?clckid=5359e528)      | 
 |    | | [Архитектурные паттерны Flutter](https://cloud.mail.ru/public/kEfr/g5hHjQr8z)      | 
+| 5   | 17.04.2025 - 16.05.2025| [**Практическая работа №5. Разработка клиент-серверного приложения, используя Firebase**](https://cloud.mail.ru/public/9WE1/t5dPojoUz)      | 
+|    | | [Заготовка](https://cloud.mail.ru/public/faxS/ATMrDLdj5)      | 
 
 
 
